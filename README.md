@@ -4,9 +4,7 @@ A Netflix clone built using React. It fetches the data from TMDB (The Movie Data
 
 # Demo
 
-The app is deployed using Firebase at [Netflix Clone Link](https://netflix-clone-297f5.web.app/)
-
-[![Netflix Clone](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/HNHaS-wYeHU)
+The app is deployed using Firebase at [Netflix Clone Link](https://netflix-clone-297f5.web.app/) and demo video is available [here](https://youtu.be/HNHaS-wYeHU)!
 
 ## Available Scripts
 
